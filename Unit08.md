@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Thermodynamic Properties of Solutions** <span id="8"></span> 
 *A solution is a homogeneous mixture comprising two or more substances
 that are mutually miscible. Common examples of solutions include Earth’s

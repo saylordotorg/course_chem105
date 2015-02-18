@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Second Law of Thermodynamics** <span id="4"></span> 
 *The second law of thermodynamics reflects the universal observation
 that moving things eventually stop and broken eggs never can become

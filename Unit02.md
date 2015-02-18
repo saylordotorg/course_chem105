@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The First Law of Thermodynamics** <span id="2"></span> 
 *The first law of thermodynamics states, simply, that energy is
 conserved. While energy can be changed from one form to another—say, by

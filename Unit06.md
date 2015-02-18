@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Spontaneous Changes, Chemical Potential, and Equilibrium**
 <span id="6"></span> 
 *A chemical system is in equilibrium when the activities and

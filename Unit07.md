@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Phase Changes and Phase Equilibria** <span id="7"></span> 
 *Phase changes deal with physical transformations of pure substances. An
 important kind of equilibrium is one in which the pure substance exists

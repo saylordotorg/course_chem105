@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Statistical Thermodynamics: A Brief Overview** <span
 id="9"></span> 
 *Thermodynamics describes the behavior of huge collections of

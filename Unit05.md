@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM105: Physical Chemistry I"
+course_description: "An introductory survey of thermodynamics in classical mechanics systems. Topics include the first, second, and third laws of thermodynamics, energy, work, enthalpy, and entropy, spontaneity, chemical potential, equilibrium, phase changes, and chemical kinetics."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Third Law of Thermodynamics** <span id="5"></span> 
 *The third law of thermodynamics is the odd man out, so to speak. The
 0th (zeroth) law states that two bodies having the same temperature as a
