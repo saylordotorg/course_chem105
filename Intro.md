@@ -164,4 +164,14 @@ each reading and assignment in this course. These notes will serve as a
 useful tool to you as you review course material and study for the Final
 Exam.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/chem105/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem105/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem105/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem105/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem105/Unit05/)
+- [Unit 6](https://legacy.saylor.org/chem105/Unit06/)
+- [Unit 7](https://legacy.saylor.org/chem105/Unit07/)
+- [Unit 8](https://legacy.saylor.org/chem105/Unit08/)
+- [Unit 9](https://legacy.saylor.org/chem105/Unit09/)
