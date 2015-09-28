@@ -176,3 +176,4 @@ Exam.
 - [Unit 7](https://legacy.saylor.org/chem105/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem105/Unit08/)
 - [Unit 9](https://legacy.saylor.org/chem105/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM105/CHEM105-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM105/CHEM105-FinalExam-Answers.html)
